@@ -1,0 +1,8 @@
+45123456;Juan Perez;juan.perez@gmail.com;3624123456
+38987654;Maria Gomez;maria.gomez@gmail.com;3624987654
+42765432;Pedro Lopez;pedro.lopez@gmail.com;3624556677
+40111222;Lucia Fernandez;lucia.fernandez@gmail.com;3624332211
+37555111;Carlos Ramirez;carlos.ramirez@gmail.com;3624778899
+45760618;German Botello;germanbotello@gmail.com;2235769318
+12345;1234;fabinho.com;12345678
+12345678;fabian ruiz;fabinho@gmail.com;1234

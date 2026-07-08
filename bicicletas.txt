@@ -1,0 +1,8 @@
+B001;Mountain Bike Rodado 29;Disponible
+B002;Mountain Bike Rodado 27.5;Disponible
+B003;Bicicleta Urbana;Disponible
+B004;BMX Freestyle;Disponible
+B005;Bicicleta Eléctrica;Disponible
+B006;Mountain Bike Carbono;Disponible
+8007;Bmx Argentina electrica;Disponible
+8018;Bicicleta BMX;Mantenimiento
